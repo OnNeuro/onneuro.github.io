@@ -1,8 +1,8 @@
 html, body, div, span, applet, object, iframe, caption, p {
 	margin: 0 0 0 0;
 	border: 0 0 0 0;
-	font: inherit;
-	color: inherit;
+	font: black;
+	color: black;
 }
 
 html, body {
@@ -528,7 +528,7 @@ pre code {
 }
 
 .post-description {
-	color: #777;
+	color: black;
 	font-size: 15pt;
 	font-family: Fenix, Georgia, "Times New Roman", serif;
 }
