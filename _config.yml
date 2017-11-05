@@ -16,7 +16,7 @@ author:
   name:           Paul Scotti
   url:            https://paulscotti.github.io
 
-paginate:         1
+paginate:         5
 
 # Custom vars
 icon:             /assets/images/icon.png
