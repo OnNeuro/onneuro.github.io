@@ -26,7 +26,8 @@ navbar-links:
   # About Me: "aboutme"
   Sign Up: "https://goo.gl/forms/vOhmWPAmmTMuXAxj2"
   Watch Past Discussions: ""
-  Discord: "https://discord.gg/rAh5xMY"
+  Discord: "https://discord.gg/zmAAx2W"
+  Instructions: "onneuro.github.io/posts/2018-05-18-Instructions/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
