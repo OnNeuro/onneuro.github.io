@@ -20,4 +20,4 @@ OnNeuro is set to meet once a month on Discord. At the start of the month, an em
 4. **Meetings will be recorded** for later listening. 
     * This is so people can still listen to the discussion despite not being available at the scheduled time.
 
-**Please email onneuro@gmail.com if you would like to lead a future discussion** (either article discussion or presentation of your own research) or if you simply wish to suggest an article or topic for discussion.
+**Please email onneuro@gmail.com if you would like to lead a future discussion** (either article discussion or presentation of your own research) or if you simply wish to suggest an article or topic.
