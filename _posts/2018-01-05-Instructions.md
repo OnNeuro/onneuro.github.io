@@ -7,7 +7,7 @@ image: /img/brain-icon.png
 
 OnNeuro is set to meet once a month on Discord. At the start of the month, an email will be sent out to everyone on the [mailing list](https://goo.gl/forms/vOhmWPAmmTMuXAxj2) that contains a time and date for when to meet. The email will state whether the discussion will be on a particular research article or if it will consist of a researcher presenting their work. We encourage listeners to interject at any time during the meeting via text- or voice-chat with questions or comments.
 
-## Useful Information To Know:
+## What You Should Know:
 
 1. **Discussions will take place over [Discord](https://discord.gg/zmAAx2W)** (text or voice-chat only). 
     * It takes 30 seconds to join and doesn't require downloading or registering a new account -- just follow this [handy-dandy guide](https://onneuro.github.io/ImageAssets/DiscordInstruct.png).
