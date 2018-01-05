@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How OnNeuro Works
-image: /img/hello_world.jpeg
+image: /img/brain-icon.png
 # tags: [random, exciting-stuff]
 ---
 
