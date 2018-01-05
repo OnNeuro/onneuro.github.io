@@ -5,7 +5,7 @@ image: /img/brain-icon.png
 # tags: [random, exciting-stuff]
 ---
 
-OnNeuro is set to meet once a month on Discord. At the start of the month, an email will be sent out to everyone on the [mailing list](https://goo.gl/forms/vOhmWPAmmTMuXAxj2) containing a time and date for when to meet. The email will state whether the discussion will be on a particular research article or if it will consist of a researcher presenting their work. We encourage listeners to interject at any time during the meeting via text- or voice-chat with questions or comments.
+OnNeuro is set to meet once a month on Discord. At the start of the month, an email will be sent out to everyone on the [mailing list](https://goo.gl/forms/vOhmWPAmmTMuXAxj2) containing a time and date for when to meet. The email will state whether the discussion will be on a particular research article or if it will consist of a researcher presenting their work. We encourage listeners to interject at any time during the meeting via text- or voice-chat with comments or questions.
 
 ## What You Should Know:
 
