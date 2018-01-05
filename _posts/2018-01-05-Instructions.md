@@ -9,7 +9,7 @@ OnNeuro is set to meet once a month on Discord. At the start of the month, an em
 
 ## What You Should Know:
 
-1. **Discussions will take place over [Discord](https://discord.gg/zmAAx2W)** (text or voice-chat only). 
+1. **Discussions will take place over [Discord](https://discord.gg/zmAAx2W)** (text- or voice-chat). 
     * It takes 30 seconds to join and doesn't require downloading or registering a new account -- just follow this [handy-dandy guide](https://onneuro.github.io/ImageAssets/DiscordInstruct.png).
 2. **Discussions may consist of either**:
     1. Discussion of an article
