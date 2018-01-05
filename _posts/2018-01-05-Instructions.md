@@ -12,7 +12,7 @@ OnNeuro is set to meet once a month on Discord. At the start of the month, an em
     * It takes 30 seconds to join and doesn't require downloading or registering a new account -- just follow this [handy-dandy guide](https://onneuro.github.io/ImageAssets/DiscordInstruct.png).
 2. **Discussions may consist of either**:
     1. Discussion of an article
-        * If the meeting is based on a research paper, prior reading of the article (or at least skimming the article) is expected.
+        * If the meeting is based on a research paper, prior reading (or at least skimming) of the article is expected.
     2. Presenting original research 
 3. **Discussions will be led by an individual presenter** who will provide others with a powerpoint to follow along. 
     * Meetings have no set length, and duration may vary depending on the topic and amount of discussion. It is fine to join and leave at any time (but note that joining late may lead to confusion as to what is going on). 
