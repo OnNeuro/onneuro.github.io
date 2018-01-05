@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How OnNeuro Works
+title: What To Know Prior To Meeting
 image: /img/brain-icon.png
 # tags: [random, exciting-stuff]
 ---
