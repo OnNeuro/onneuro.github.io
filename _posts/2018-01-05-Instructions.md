@@ -15,7 +15,7 @@ OnNeuro is set to meet once a month on Discord. At the start of the month, an em
         * If the meeting is based on a research paper, prior reading of the article (or at least skimming the article) is expected.
     2. Presenting original research 
 3. **Discussions will be led by an individual presenter** who will provide others with a powerpoint to follow along. 
-    * Meetings have no set length, and duration may vary depending on the topic and amount of discussion. It is fine to join and leave at any time (but note that joining late may mean you get confused as to what is happening). 
+    * Meetings have no set length, and duration may vary depending on the topic and amount of discussion. It is fine to join and leave at any time (but note that joining late may lead to confusion as to what is going on). 
 4. **Meetings will be recorded** for later listening. 
     * This is so people can still listen to the discussion despite not being available at the scheduled time.
 
