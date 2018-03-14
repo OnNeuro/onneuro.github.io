@@ -25,9 +25,10 @@ description: ""
 navbar-links:
   # About Me: "aboutme"
   Sign Up: "https://onneuro.github.io/2018-01-01-Join/"
-  Past Discussions: "https://www.youtube.com/channel/UCEGD13q4cWw5Lvkwo2uZKVg"
-  Discord: "https://discord.gg/zmAAx2W"
   Instructions: "2018-01-05-Instructions"
+  Past Discussions: "2018-01-27-Past"
+  Discord: "https://discord.gg/zmAAx2W"
+  YouTube: "https://www.youtube.com/channel/UCEGD13q4cWw5Lvkwo2uZKVg"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
