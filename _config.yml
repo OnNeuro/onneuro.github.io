@@ -47,8 +47,8 @@ navbar-links:
 #navbar-img: "/img/bgimage.png"
 #footer-col: "blue"
 #footer-img: "/img/bgimage.png"
-#page-col: "#FF0000"
-page-img: "/img/bgimage.png"
+page-col: "#FF0F00"
+#page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
 
