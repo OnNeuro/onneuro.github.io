@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How OnNeuro Works
-image: /img/brain-icon.png
+# image: /img/brain-icon.png
 excerpt: What to know before joining the conference.
 # tags: [random, exciting-stuff]
 ---
